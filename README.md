@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Explore%20My%20Projects&descAlignY=60&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Introduce%20Myself&descAlignY=60&descAlign=70)
 
 ## 👋 About Me
 안녕하세요! 저는 이승찬입니다. 
