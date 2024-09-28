@@ -23,7 +23,7 @@ Django, Node.js, HTML, CSS, JavaScript를 활용해 프로젝트를 진행해 �
 ## 📊 GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan000518)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmer1024)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrcodus)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chan000518)](https://github.com/chan000518/github-readme-stats)
