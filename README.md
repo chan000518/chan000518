@@ -21,7 +21,6 @@ Django, Node.js, HTML, CSS, JavaScript를 활용해 프로젝트를 진행해 �
 
 ## Github stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chan000518)](https://github.com/chan000518/github-readme-stats)
-
 [![Seungchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan000518)](https://github.com/anuraghazra/github-readme-stats)
 ## 🔖 Featured repositories:
 [![ParkGolfOne Final Project](https://github-readme-stats.vercel.app/api/pin/?username=ParkGolfOne&repo=pirogramming_final_project)](https://github.com/ParkGolfOne/pirogramming_final_project)
