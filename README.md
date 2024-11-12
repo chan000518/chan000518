@@ -6,8 +6,8 @@
 Django, Node.js, HTML, CSS, JavaScript를 활용해 프로젝트를 진행해 보았습니다. 
 또한, C, C++, Python 같은 언어들을 학교에서 다뤄봤습니다.
 
-- 🌱 **현재 배우고 있는 것**: SpringBoot, 블록체인, keras, database
-- 💬 **관심 분야**: 백엔드 개발, 클라우드, 정보보안
+- 🌱 **현재 배우고 있는 것**: 블록체인, database
+- 💬 **관심 분야**: 백엔드 개발, 클라우드
 - 🎯 **현재 목표**: 다양한 분야 관심가지고 공부해보기
 
 ## 🛠️ Tech Stack, Language
