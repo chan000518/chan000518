@@ -21,7 +21,6 @@ Django, Node.js, HTML, CSS, JavaScript를 활용해 여러 프로젝트를 진�
 [![Seungchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan000518)](https://github.com/anuraghazra/github-readme-stats)
 ## 🔖 Featured repositories:
 [![ParkGolfOne Final Project](https://github-readme-stats.vercel.app/api/pin/?username=ParkGolfOne&repo=pirogramming_final_project)](https://github.com/ParkGolfOne/pirogramming_final_project)
-[![POM Backend](https://github-readme-stats.vercel.app/api/pin/?username=POM-Peace-of-memory&repo=backend)](https://github.com/chan000518/POM-Peace-of-memory-backend)
 [![Pironeer Attendance Web](https://github-readme-stats.vercel.app/api/pin/?username=Pironeer-APP&repo=Pironeer_Attend_Web)](https://github.com/Pironeer-APP/Pironeer_Attend_Web)
 ## 🔖 study repositories:
 [![Pironeer Study](https://github-readme-stats.vercel.app/api/pin/?username=chan000518&repo=PironeerStudy)](https://github.com/chan000518/PironeerStudy)
