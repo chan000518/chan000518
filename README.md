@@ -2,6 +2,7 @@
 
 ## 👋 About Me
 안녕하세요!
+
 저는 웹 개발을 비롯한 다양한 분야에 관심을 가지고 있으며, 
 Django, Node.js, HTML, CSS, JavaScript를 활용해 여러 프로젝트를 진행해 보았습니다. 
 
