@@ -1,13 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Introduce%20Myself&descAlignY=60&descAlign=70)
 
 ## 👋 About Me
-안녕하세요! 저는 이승찬입니다. 
+안녕하세요!
 저는 웹 개발을 비롯한 다양한 분야에 관심을 가지고 있으며, 
-Django, Node.js, HTML, CSS, JavaScript를 활용해 프로젝트를 진행해 보았습니다. 
-
-- 🌱 **현재 배우고 있는 것**: 블록체인, database
-- 💬 **관심 분야**: 백엔드 개발, 클라우드
-- 🎯 **현재 목표**: 다양한 분야 관심가지고 공부해보기
+Django, Node.js, HTML, CSS, JavaScript를 활용해 여러 프로젝트를 진행해 보았습니다. 
 
 ## 🛠️ Tech Stack, Language
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
