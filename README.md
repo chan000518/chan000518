@@ -43,15 +43,14 @@
 
 ---
 
-### 📌 실시간 출석 시스템 개선 (2024.03 ~ 2024.09)
+### 📌 실시간 출석 시스템 개선 (2024.05 ~ 2024.09)
 - EC2 예약 인스턴스 도입 → 비용 70% 절감
-- Redis 캐시 + SSE 적용 → 성능 향상
-- React 학습 후 버튼 UI 개선  
+- 인메모리 캐시 + SSE 적용 → 성능 향상
 [🔗 GitHub Repo](https://github.com/Pironeer-APP/Pironeer_Attend_Web)
 
 ---
 
-### 📌 코드잇 백엔드 프로젝트 (2024.04 ~ 2025.02)
+### 📌 코드잇 백엔드 프로젝트 (2024.12 ~ 2025.02)
 - Node.js 백엔드 학습 및 실전 기능 개발
 - Redis + SSE 이벤트 처리, JWT 인증, 카카오 로그인 구현  
 [🔗 GitHub Repo](https://github.com/codeit-garden/Garden-BE)
